@@ -16,6 +16,7 @@ public class Chaussure {
     @Column(length = 50, nullable = false)
     private  String nom;
 
+
     @Column(nullable = false)
     private Double prix;
 
